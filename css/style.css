@@ -312,7 +312,7 @@ ul {
 }
 .textarea-form:focus + .form-labe,
 .textarea-form:not(:placeholder-shown) + .form-labe {
-  transform: translate(-10px, -30px);
+  transform: translate(-10px, -32px);
   color: #2196f3;
   cursor: pointer;
 }
@@ -338,7 +338,7 @@ ul {
 
 .contact-form-input:focus + .form-label,
 .contact-form-input:not(:placeholder-shown) + .form-label {
-  transform: translate(-30px, -30px);
+  transform: translate(-30px, -32px);
   color: #2196f3;
 }
 .checkbox-label {
